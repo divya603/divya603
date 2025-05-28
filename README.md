@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Srinivasan</h1>
-<h3 align="center">M.S. Computer Science @ NYU | AI Researcher | Deep Learning Enthusiast</h3>
+<h3 align="center">M.S. Computer Science @ NYU | AI Research | Deep Learning Enthusiast | Cognitive Modelling </h3>
 
 <p align="center">
   <a href="mailto:ds7852@nyu.edu">📧 Email</a> •
@@ -31,10 +31,10 @@
 ---
 
 📊 **GitHub Stats**
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=divya603&show_icons=true&theme=radical" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya603&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divya603&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya603&layout=compact&theme=radical" width="45%" />
+</div>
 
 <br><br><br><br><br>
 
