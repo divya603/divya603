@@ -30,16 +30,6 @@
 
 ---
 
-📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya603&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya603&layout=compact&theme=radical" width="45%" />
-</div>
-
-<br><br><br><br><br>
-
----
-
 📚 **Featured Publications**
 - [IEEE M&N 2024 – Driving Style Profiling using Deep Auto-encoders](http://dx.doi.org/10.1109/MN60932.2024.10615387)
 - [CLEF 2023 – Medical Dialogue Summarization using SVC](https://ceur-ws.org/Vol-3497/paper-127.pdf)
@@ -48,7 +38,7 @@
 
 🎓 **Education**
 - M.S. in Computer Science – New York University (Expected 2026)
-- B.E. in Computer Science – Shiv Nadar University & University of Catania (2024)
+- B.E. in Computer Science – Shiv Nadar University (2024)
 
 ---
 
