@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divya Srinivasan</h1>
-<h3 align="center">M.S. Computer Science @ NYU | AI Research | Deep Learning Enthusiast | Cognitive Modelling </h3>
-
 <p align="center">
   <a href="mailto:ds7852@nyu.edu">📧 Email</a> •
   <a href="https://www.linkedin.com/in/divya-srinivasan-790ba41bb/">LinkedIn</a> •
